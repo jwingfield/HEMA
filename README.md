@@ -1,4 +1,4 @@
-![alt text][logo]
+
 ![Image] 
 (/hema-logo.png)
 
