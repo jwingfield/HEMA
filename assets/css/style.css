@@ -1,3 +1,9 @@
 body {
-background-color: #f9f4ee;
+  background-color: #f9f4ee;
+}
+p {
+  color: #654321;
+  font-family:"Helvetica Neue", Verdana, Arial, sans-serif;
+  font-size:14px;
+  line-height:1.5;
 }
