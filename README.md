@@ -7,4 +7,5 @@ I started my new job in February, with the intention that we would still sell at
 So, we'd like to thank all of you for your custom and friendship over the last 10 years and wish you all the best in the future.
 
 Jonathan & Margaret
+
 Help Empty My Attic
