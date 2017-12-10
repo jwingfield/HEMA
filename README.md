@@ -1,2 +1,2 @@
-![picture alt](http://www.brightlightpictures.com/assets/images/portfolio/thethaw_header.jpg "Title is optional")
+![picture alt](http://helpemptymyattic.co.uk/skin/frontend/base/default/images/hema-logo.png "Help Empty My Attic Logo")
 Final site...
